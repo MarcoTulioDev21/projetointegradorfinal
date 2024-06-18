@@ -441,6 +441,7 @@ footer {
   }
   .navbar {
     position: fixed;
+    background-color: #dfa4d0;
 }
 
 /* Exibição do botão do menu em telas menores */
